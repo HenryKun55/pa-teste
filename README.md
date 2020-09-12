@@ -48,11 +48,11 @@ yarn start // npm start
 ```
 
 ### Passos
-* Complete a página **Visualizar Processo** 
-* Crie alguma das páginas do design [**Honorários**, **Andamento**, **Custas**, **Prazos**] (Escolha apenas uma tela dessas listadas)
-* E em seguida crie o página de criação da página escolhida
+* Escolha 4 páginas e desenvolva ( De preferência o dashboard, tabela e formulário)
 
 # **NÃO PRECISA DE INTEGRAÇÃO COM NENHUMA API. UTILIZE DADOS MOCKADOS !!**
+
+Utilize alguma biblioteca como o **json-server !!** para complementar os dados por exemplo.
 
 ## Bônus :genie_man:
 
