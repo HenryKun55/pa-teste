@@ -35,18 +35,6 @@ Transferência bancária ou depósito (Se tiver conta digital, é mais fácil ai
 
 * [Design](https://www.figma.com/file/xsU0P7bfYlEZME3S6j1ZQh/PautAberta?node-id=156%3A1437)
 
-Para rodar o projeto execute 
-
-```
-yarn // npm install 
-```
-
-Depois é só rodar o projeto
-
-```
-yarn start // npm start
-```
-
 ### Passos
 * Escolha 4 páginas e desenvolva ( De preferência o dashboard, tabela e formulário)
 
